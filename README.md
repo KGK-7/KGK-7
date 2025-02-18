@@ -49,7 +49,7 @@ Welcome to my GitHub profile! I'm a MCA student with a deep interest in **artifi
 
 ## 🌐 **Connect with Me**  
 
-<div align="center">
+<div align="left">
   <a href="https://linkedin.com/in/gk-linkin">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
