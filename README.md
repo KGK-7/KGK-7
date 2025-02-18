@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Gokul, a tech enthusiast and MCA student at MCET College.<br>💻 I’m passionate about AI, Machine Learning, and building projects that solve real-world problems.<br>🚀 I love exploring new ideas, learning new tools, and creating meaningful solutions through code.<br>:bowtie: I enjoy building cool, meaningful projects that push my boundaries and let me learn something new along the way.
+👋 Hi, I’m Gokul, a backend developer and MCA student at MCET College.<br>💻 I’m passionate about AI, Machine Learning, and building projects that solve real-world problems.<br>🚀 I love exploring new ideas, learning new tools, and creating meaningful solutions through code.<br>:bowtie: I enjoy building cool, meaningful projects that push my boundaries and let me learn something new along the way.
 
 
 ## 🌐 Socials:
