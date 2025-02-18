@@ -8,15 +8,6 @@ Welcome to my GitHub profile! I'm a MCA student with a deep interest in **artifi
 - 🛠️ Building exciting projects like **Personalized Study Plan Generators** , **Speech Recognition Models** , **AI Tutor** and **Voice Assistants**  
 - ✨ Love to do projects on emerging technologies.  
 
----
-
-## 📂 **My Projects**  
-### Explore my repositories:  
-<div align="center">
-  <a href="https://github.com/Gokul/Project1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Gokul&repo=Project1&theme=radical" alt="Project1"></a>
-  <a href="https://github.com/Gokul/Project2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Gokul&repo=Project2&theme=radical" alt="Project2"></a>
-  <a href="https://github.com/Gokul/Project3"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Gokul&repo=Project3&theme=radical" alt="Project3"></a>
-</div>
 
 ---
 
