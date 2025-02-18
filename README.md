@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Gokul!  
-### Backend Developer, AI, and Machine Learning.  
+### Backend Developer, AI/ML Enthusiast
 
 Welcome to my GitHub profile! I'm a MCA student with a deep interest in **artificial intelligence**, **machine learning**, and building innovative projects. Whether it's creating AI-driven solutions, exploring NLP frameworks, or designing user-centric web apps, I thrive on solving problems and learning along the way.  
 
