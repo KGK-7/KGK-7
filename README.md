@@ -1,10 +1,10 @@
 # 👋 Hi, I'm Gokul!  
 ### Backend Developer and AI | ML Enthusiast.
 
-Welcome to my GitHub profile! I'm doing a Master's in Computer Applications with a deep interest in **artificial intelligence**, **machine learning**, and building innovative projects.
+Welcome to my GitHub profile! I'm doing Master's in Computer Applications with a deep interest in **backend technologies**, **artificial intelligence**, **machine learning**, and building innovative projects.
 
 ## 🚀 About Me  
-- 🌱 Currently diving into **NLP**, **AI frameworks**, and **OCR technologies**.  
+- 🌱 Currently diving into **API Development**, **Redis Caching**, **DSA**, **NLP**, **AI frameworks**, and **OCR technologies**.  
 - 🛠️ Building exciting projects like **Personalized Study Plan Generators**, **Speech Recognition Modules**, **Voice Assistants**, and **AI Tutors**.  
 - ✨ Love working on AI-NLP based projects.
 
