@@ -1,7 +1,7 @@
 # 👋 Hello Welcome!  
-### Backend Developer and AI | ML Enthusiast.
+### Full-Stack Dev.
 
-Welcome to my GitHub profile! I'm doing Master's in Computer Applications with a deep interest in **backend technologies**, **artificial intelligence**, **machine learning**, and building innovative projects.
+Welcome to my GitHub profile! I'm doing Master's in Computer Applications with a deep interest in **Full-Stack Development** and building innovative projects.
 
 ## 🚀 About Me  
 - 🌱 Currently diving into **API Development**, **Redis Caching**, **DSA**, **NLP**, **AI frameworks**, and **OCR technologies**.  
