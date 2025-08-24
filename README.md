@@ -1,7 +1,7 @@
 # 👋 Hello Welcome!  
 ### Full-Stack Dev.
 
-Welcome to my GitHub profile! I'm doing Master's in Computer Applications with a deep interest in **Full-Stack Development** and building innovative projects.  
+### Welcome to my GitHub profile! I'm doing Master's in Computer Applications with a deep interest in **Full-Stack Development** and building innovative projects.  
 
 ---
 
