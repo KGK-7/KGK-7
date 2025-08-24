@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm doing Master's in Computer Applications with a
 
 ---
 
-#  About Me:
+# 💫 About Me:
 🔭 Currently diving into Web Designing, API Development, Redis Caching, DSA, NLP, AI frameworks, and OCR technologies.  
 ---
 
@@ -19,6 +19,7 @@ Welcome to my GitHub profile! I'm doing Master's in Computer Applications with a
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white)  
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white)  
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white)  
+<br>
 
 ### ⚙️ Backend & Frameworks  
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white)  
@@ -28,6 +29,7 @@ Welcome to my GitHub profile! I'm doing Master's in Computer Applications with a
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white)  
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi)  
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white)  
+<br>
 
 ### 🗄️ Databases & Caching  
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white)  
@@ -36,6 +38,7 @@ Welcome to my GitHub profile! I'm doing Master's in Computer Applications with a
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white)  
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=plastic&logo=redis&logoColor=white)  
 ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=plastic&logo=apache-cassandra&logoColor=white)  
+<br>
 
 ### ☁️ Cloud & Deployment  
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white)  
@@ -45,6 +48,7 @@ Welcome to my GitHub profile! I'm doing Master's in Computer Applications with a
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=plastic&logo=render&logoColor=white)  
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase)  
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white)  
+<br>
 
 ### 🤖 AI / ML & Data Science  
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white)  
@@ -57,6 +61,7 @@ Welcome to my GitHub profile! I'm doing Master's in Computer Applications with a
 ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=%white)  
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=plastic&logo=opencv&logoColor=white)  
 ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=plastic&logo=streamlit&logoColor=white)  
+<br>
 
 ### 🛠️ Tools & Utilities  
 ![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens)  
@@ -70,6 +75,7 @@ Welcome to my GitHub profile! I'm doing Master's in Computer Applications with a
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white)  
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white)  
 ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=plastic&logo=Adobe%20Lightroom%20Classic&logoColor=white)  
+<br>
 
 ---
 
@@ -78,4 +84,4 @@ Welcome to my GitHub profile! I'm doing Master's in Computer Applications with a
 ![](https://nirzak-streak-stats.vercel.app/?user=KGK-7&theme=dark&hide_border=false)<br/>  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KGK-7&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)  
 
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
