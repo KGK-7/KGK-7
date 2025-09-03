@@ -12,17 +12,14 @@
   
   <!-- Enhanced Social badges with custom styling -->
   <div style="display: flex; justify-content: center; gap: 10px;">
-    <a href="https://linkedin.com/in/yourprofile" target="_blank">
+    <a href="https://www.linkedin.com/in/gk-linkin/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=black&color=0077B5&logoWidth=20" alt="LinkedIn" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0, 119, 181, 0.4);" />
     </a>
-    <a href="mailto:your.email@gmail.com" target="_blank">
+    <a href="mailto:gokulakriskgk@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white&labelColor=black&color=D14836" alt="Gmail" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(209, 72, 54, 0.4);" />
     </a>
-    <a href="https://yourportfolio.com" target="_blank">
+    <a href="https://gk-web-portfolio.netlify.app/" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-%23FF5722.svg?style=for-the-badge&logo=firefox&logoColor=white&labelColor=black&color=FF5722" alt="Portfolio" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(255, 87, 34, 0.4);" />
-    </a>
-    <a href="https://twitter.com/yourusername" target="_blank">
-      <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&labelColor=black&color=1DA1F2" alt="Twitter" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(29, 161, 242, 0.4);" />
     </a>
     <a href="https://github.com/KGK-7" target="_blank">
       <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&labelColor=black&color=333333" alt="GitHub" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(255, 255, 255, 0.2);" />
@@ -35,7 +32,6 @@
   <div>
     <img src="https://komarev.com/ghpvc/?username=KGK-7&label=PROFILE+VIEWS&style=for-the-badge&color=blueviolet&labelColor=black" alt="Profile Views" />
     <img src="https://img.shields.io/github/followers/KGK-7?label=Followers&style=for-the-badge&color=00d9ff&labelColor=black" alt="GitHub Followers" />
-    <img src="https://img.shields.io/github/stars/KGK-7?label=Stars&style=for-the-badge&color=ffa500&labelColor=black" alt="GitHub Stars" />
   </div>
   
 </div>
@@ -79,29 +75,13 @@ public class Developer {
         "Frontend", new String[]{"React", "Angular", "Vue.js"},
         "Backend", new String[]{"Node.js", "Python", "Java"},
         "Database", new String[]{"MySQL", "MongoDB", "Redis"},
-        "Cloud", new String[]{"AWS", "Azure", "GCP"}
     );
-    
-    // Life Configuration
-    public void displayMotivation() {
-        System.out.println("Life Motto: Code. Create. Innovate. Repeat.");
-        System.out.println("Fuel: Coffee ☕ + Music 🎵 + Passion 🔥");
-        System.out.println("Status: Always learning, always building!");
-    }
-    
-    // Contact Method
-    public void connect(String platform) {
-        System.out.println("Let's collaborate on: " + platform);
-    }
-    
-    // Fun Fact
-    public boolean isAwesome() {
-        return true; // Always! 😎
-    }
+   
 }
 ```
         
-      </td>
+     
+  </td>
       <td width="45%" style="text-align: center;">
         
   <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="100%" style="border-radius: 15px;">
@@ -114,11 +94,10 @@ public class Developer {
     <br>
     <img src="https://img.shields.io/badge/💻%20Projects-50+-blue?style=for-the-badge&labelColor=black" />
     <br>
-    <img src="https://img.shields.io/badge/☕%20Coffee-∞%20cups-brown?style=for-the-badge&labelColor=black" />
   </div>
         
-      </td>
-    </tr>
+   </td>
+ </tr>
   </table>
   
 </div>
@@ -147,9 +126,6 @@ public class Developer {
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
     <img src="https://skillicons.dev/icons?i=css&theme=dark" alt="CSS3" width="60" height="60" style="margin: 10px;" />
   </a>
-  <a href="https://sass-lang.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=sass&theme=dark" alt="SASS" width="60" height="60" style="margin: 10px;" />
-  </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://skillicons.dev/icons?i=js&theme=dark" alt="JavaScript" width="60" height="60" style="margin: 10px;" />
   </a>
@@ -173,9 +149,6 @@ public class Developer {
   <a href="https://nextjs.org/" target="_blank">
     <img src="https://skillicons.dev/icons?i=nextjs&theme=dark" alt="Next.js" width="60" height="60" style="margin: 10px;" />
   </a>
-  <a href="https://redux.js.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=redux&theme=dark" alt="Redux" width="60" height="60" style="margin: 10px;" />
-  </a>
   
   <br><br>
   
@@ -186,15 +159,6 @@ public class Developer {
   </a>
   <a href="https://getbootstrap.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" alt="Bootstrap" width="60" height="60" style="margin: 10px;" />
-  </a>
-  <a href="https://mui.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=materialui&theme=dark" alt="Material UI" width="60" height="60" style="margin: 10px;" />
-  </a>
-  <a href="https://vitejs.dev/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=vite&theme=dark" alt="Vite" width="60" height="60" style="margin: 10px;" />
-  </a>
-  <a href="https://webpack.js.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=webpack&theme=dark" alt="Webpack" width="60" height="60" style="margin: 10px;" />
   </a>
   
 </div>
@@ -218,12 +182,6 @@ public class Developer {
   <a href="https://www.java.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=java&theme=dark" alt="Java" width="60" height="60" style="margin: 10px;" />
   </a>
-  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=cs&theme=dark" alt="C#" width="60" height="60" style="margin: 10px;" />
-  </a>
-  <a href="https://go.dev/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=go&theme=dark" alt="Go" width="60" height="60" style="margin: 10px;" />
-  </a>
   
   <br><br>
   
@@ -241,25 +199,19 @@ public class Developer {
   <a href="https://fastapi.tiangolo.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=fastapi&theme=dark" alt="FastAPI" width="60" height="60" style="margin: 10px;" />
   </a>
-  <a href="https://spring.io/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=spring&theme=dark" alt="Spring" width="60" height="60" style="margin: 10px;" />
-  </a>
-  <a href="https://dotnet.microsoft.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=dotnet&theme=dark" alt=".NET" width="60" height="60" style="margin: 10px;" />
-  </a>
   
 </div>
 
 </details>
 
 <details>
-<summary><b>🗄️ Database & Caching 💾</b></summary>
+<summary><b>🗄️ Database</b></summary>
 <br>
 
 <div align="center">
   
   <!-- Relational Databases -->
-  <h4>🏛️ Relational Databases</h4>
+  <h4> Relational Databases</h4>
   <a href="https://www.mysql.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL" width="60" height="60" style="margin: 10px;" />
   </a>
@@ -305,10 +257,6 @@ public class Developer {
   <a href="https://cloud.google.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=gcp&theme=dark" alt="Google Cloud" width="60" height="60" style="margin: 10px;" />
   </a>
-  <a href="https://azure.microsoft.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=azure&theme=dark" alt="Microsoft Azure" width="60" height="60" style="margin: 10px;" />
-  </a>
-  
   <br><br>
   
   <!-- DevOps Tools -->
@@ -316,17 +264,11 @@ public class Developer {
   <a href="https://www.docker.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=docker&theme=dark" alt="Docker" width="60" height="60" style="margin: 10px;" />
   </a>
-  <a href="https://kubernetes.io/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=kubernetes&theme=dark" alt="Kubernetes" width="60" height="60" style="margin: 10px;" />
-  </a>
   <a href="https://vercel.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=vercel&theme=dark" alt="Vercel" width="60" height="60" style="margin: 10px;" />
   </a>
   <a href="https://www.netlify.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=netlify&theme=dark" alt="Netlify" width="60" height="60" style="margin: 10px;" />
-  </a>
-  <a href="https://www.jenkins.io/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=jenkins&theme=dark" alt="Jenkins" width="60" height="60" style="margin: 10px;" />
   </a>
   
 </div>
@@ -413,99 +355,9 @@ public class Developer {
   
   <br><br>
   
-  <!-- Additional Metrics -->
-  <div align="center">
-    <table>
-      <tr>
-        <td width="33%">
-          <img src="https://github-readme-stats.vercel.app/api/wakatime?username=KGK7&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&border_radius=15" width="100%"/>
-        </td>
-        <td width="33%">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=KGK-7&repo=your-best-repo&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&border_radius=15" width="100%"/>
-        </td>
-        <td width="33%">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KGK-7&theme=radical" width="100%"/>
-        </td>
-      </tr>
-    </table>
-  </div>
-  
-</div>
 
 <!-- Animated divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- Enhanced Featured Projects -->
-<div align="center">
-  
-  ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40"> **Featured Projects** <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40">
-  
-  <div align="center">
-    <table>
-      <tr>
-        <td width="50%" align="center">
-          <div>
-            <h3>🚀 Project Alpha</h3>
-            <a href="https://github.com/KGK-7/project-alpha">
-              <img src="https://github-readme-stats.vercel.app/api/pin/?username=KGK-7&repo=project-alpha&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&border_radius=15" />
-            </a>
-            <br><br>
-            <div>
-              <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-              <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" />
-              <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
-            </div>
-          </div>
-        </td>
-        <td width="50%" align="center">
-          <div>
-            <h3>🤖 AI Innovation Hub</h3>
-            <a href="https://github.com/KGK-7/ai-hub">
-              <img src="https://github-readme-stats.vercel.app/api/pin/?username=KGK-7&repo=ai-hub&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&border_radius=15" />
-            </a>
-            <br><br>
-            <div>
-              <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-              <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-              <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
-            </div>
-          </div>
-        </td>
-      </tr>
-      <tr>
-        <td width="50%" align="center">
-          <div>
-            <h3>🌐 Full-Stack Platform</h3>
-            <a href="https://github.com/KGK-7/fullstack-platform">
-              <img src="https://github-readme-stats.vercel.app/api/pin/?username=KGK-7&repo=fullstack-platform&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&border_radius=15" />
-            </a>
-            <br><br>
-            <div>
-              <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-              <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-              <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
-            </div>
-          </div>
-        </td>
-        <td width="50%" align="center">
-          <div>
-            <h3>📱 Mobile Innovation</h3>
-            <a href="https://github.com/KGK-7/mobile-app">
-              <img src="https://github-readme-stats.vercel.app/api/pin/?username=KGK-7&repo=mobile-app&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&border_radius=15" />
-            </a>
-            <br><br>
-            <div>
-              <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-              <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" />
-              <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
-            </div>
-          </div>
-        </td>
-      </tr>
-    </table>
-  </div>
-  
-</div>
 
 <!-- Animated divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
