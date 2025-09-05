@@ -273,36 +273,10 @@ public class Developer {
   
   <br>
   
-  <!-- Main Stats Grid -->
-  <table>
-    <tr>
-      <td width="50%">
-        <img height="200em" src="https://github-readme-stats.vercel.app/api?username=KGK-7&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&ring_color=00d9ff&border_radius=15"/>
-      </td>
-      <td width="50%">
-        <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KGK-7&layout=compact&langs_count=10&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&border_radius=15"/>
-      </td>
-    </tr>
-  </table>
-  
-  <br>
-  
   <!-- Streak Stats with enhanced styling -->
   <img src="https://streak-stats.demolab.com/?user=KGK-7&theme=radical&hide_border=true&background=0d1117&stroke=00d9ff&ring=00d9ff&fire=ff6500&currStreakLabel=c9d1d9&border_radius=15" alt="GitHub Streak" width="80%"/>
   
   <br><br>
-  
-  <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KGK-7&theme=react-dark&hide_border=true&bg_color=0d1117&color=00d9ff&line=00d9ff&point=c9d1d9&area=true&area_color=00d9ff" width="95%"/>
-  
-  <br><br>
-  
-  <!-- Contribution Stats -->
-  <div align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KGK-7&theme=radical" width="90%"/>
-  </div>
-  
-  <br>
 
 <!-- Animated divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
