@@ -27,14 +27,6 @@
   </div>
   
   <br><br>
-  
-  <!-- Enhanced visitor counter -->
-  <div>
-    <img src="https://komarev.com/ghpvc/?username=KGK-7&label=PROFILE+VIEWS&style=for-the-badge&color=blueviolet&labelColor=black" alt="Profile Views" />
-    <img src="https://img.shields.io/github/followers/KGK-7?label=Followers&style=for-the-badge&color=00d9ff&labelColor=black" alt="GitHub Followers" />
-  </div>
-  
-</div>
 
 <!-- Animated divider with neon effect -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
