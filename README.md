@@ -1,12 +1,12 @@
 <!-- Header with custom banner -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Welcome%20to%20My%20Digital%20Universe&fontSize=45&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Where%20Code%20Meets%20Creativity&descAlignY=55&descSize=18" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Welcome%20to%20My%20GitHub%20Universe&fontSize=45&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Where%20Repos%20Meets%20Creativity&descAlignY=55&descSize=18" />
 </div>
 
 <div align="center">
   
   <!-- Animated Name with glowing effect -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=55&duration=2500&pause=1000&color=00D9FF&background=000000&center=true&vCenter=true&width=900&height=120&lines=%F0%9F%9A%80+YOUR+NAME+HERE+%F0%9F%9A%80;%E2%9A%A1+FULL-STACK+WIZARD+%E2%9A%A1;%F0%9F%A4%96+AI+ARCHITECT+%F0%9F%A4%96;%F0%9F%8C%9F+CODE+CRAFTSMAN+%F0%9F%8C%9F;%F0%9F%94%A5+INNOVATION+CATALYST+%F0%9F%94%A5" alt="Animated Name" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=55&duration=2500&pause=1000&color=00D9FF&background=000000&center=true&vCenter=true&width=900&height=120&lines=%F0%9F%9A%80+GOKULAKRISHNAN+%F0%9F%9A%80;%E2%9A%A1+BACKEND+DEV+%E2%9A%A1;%F0%9F%A4%96+AI+ARCHITECT+%F0%9F%A4%96;%F0%9F%8C%9F+CODE+CRAFTSMAN+%F0%9F%8C%9F;%F0%9F%94%A5+CONSISTENT+CODER+%F0%9F%94%A5" alt="Animated Name" />
   
   <br><br>
   
@@ -56,15 +56,17 @@
 public class Developer {
     
     // Personal Information
-    private String name = "Your Name";
-    private String role = "Full-Stack Sorcerer 🧙‍♂️";
+    private String name = "Gokula Krishnan";
+    private String role = "Backend Dev";
     private String education = "Master's in Computer Applications";
-    private String location = "Planet Earth 🌍";
+    private String location = "TamilNadu, Dindigul, Palani";
     
     // Current Mission Arrays
     private String[] currentMissions = {
-        "🎨 Crafting pixel-perfect UIs",
-        "⚡ Building lightning-fast APIs", 
+        "⚡ Building APIs and Backend systems",
+        "📘 Practising DSA",
+        "🧩 Problem Solving on LeetCode",
+        "📂 Commit Solved Problems in GitHub",
         "🧠 Training AI models",
         "🚀 Deploying to the cloud",
         "🔧 Optimizing system performance"
@@ -72,9 +74,10 @@ public class Developer {
     
     // Skills & Interests
     private Map<String, String[]> expertise = Map.of(
-        "Frontend", new String[]{"React", "Angular", "Vue.js"},
-        "Backend", new String[]{"Node.js", "Python", "Java"},
-        "Database", new String[]{"MySQL", "MongoDB", "Redis"},
+        "Frontend", new String[]{"HTML", "CSS", "JS", "Flask","Django"},
+        "Backend", new String[]{"Python", "Java"},
+        "API", new String[]{"FastAPI", "RestAPI"},
+        "Database", new String[]{"MySQL", "MongoDB", "Redis","PostgreSQL"},
     );
    
 }
@@ -88,13 +91,6 @@ public class Developer {
   
   <br><br>
   
-  <!-- Quick Stats Cards -->
-  <div>
-    <img src="https://img.shields.io/badge/🔥%20Streak-365%20days-orange?style=for-the-badge&labelColor=black" />
-    <br>
-    <img src="https://img.shields.io/badge/💻%20Projects-50+-blue?style=for-the-badge&labelColor=black" />
-    <br>
-  </div>
         
    </td>
  </tr>
@@ -113,7 +109,7 @@ public class Developer {
 </div>
 
 <details>
-<summary><b>🎨 Frontend Magic ✨</b></summary>
+<summary><b>🎨 Frontend Magic</b></summary>
 <br>
 
 <div align="center">
@@ -129,9 +125,6 @@ public class Developer {
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://skillicons.dev/icons?i=js&theme=dark" alt="JavaScript" width="60" height="60" style="margin: 10px;" />
   </a>
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=ts&theme=dark" alt="TypeScript" width="60" height="60" style="margin: 10px;" />
-  </a>
   
   <br><br>
   
@@ -140,23 +133,11 @@ public class Developer {
   <a href="https://reactjs.org/" target="_blank">
     <img src="https://skillicons.dev/icons?i=react&theme=dark" alt="React" width="60" height="60" style="margin: 10px;" />
   </a>
-  <a href="https://angular.io/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=angular&theme=dark" alt="Angular" width="60" height="60" style="margin: 10px;" />
-  </a>
-  <a href="https://vuejs.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=vue&theme=dark" alt="Vue.js" width="60" height="60" style="margin: 10px;" />
-  </a>
-  <a href="https://nextjs.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=nextjs&theme=dark" alt="Next.js" width="60" height="60" style="margin: 10px;" />
-  </a>
   
   <br><br>
   
   <!-- Styling & Build Tools -->
   <h4>🎨 Styling & Build Tools</h4>
-  <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" alt="TailwindCSS" width="60" height="60" style="margin: 10px;" />
-  </a>
   <a href="https://getbootstrap.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" alt="Bootstrap" width="60" height="60" style="margin: 10px;" />
   </a>
@@ -166,16 +147,13 @@ public class Developer {
 </details>
 
 <details>
-<summary><b>⚙️ Backend Powerhouse 🔥</b></summary>
+<summary><b>⚙️ Backend Powerhouse </b></summary>
 <br>
 
 <div align="center">
   
   <!-- Programming Languages -->
   <h4>💻 Programming Languages</h4>
-  <a href="https://nodejs.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" alt="Node.js" width="60" height="60" style="margin: 10px;" />
-  </a>
   <a href="https://www.python.org/" target="_blank">
     <img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python" width="60" height="60" style="margin: 10px;" />
   </a>
@@ -187,9 +165,6 @@ public class Developer {
   
   <!-- Frameworks -->
   <h4>🔧 Frameworks</h4>
-  <a href="https://expressjs.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=express&theme=dark" alt="Express.js" width="60" height="60" style="margin: 10px;" />
-  </a>
   <a href="https://www.djangoproject.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=django&theme=dark" alt="Django" width="60" height="60" style="margin: 10px;" />
   </a>
@@ -235,29 +210,16 @@ public class Developer {
   <a href="https://firebase.google.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=firebase&theme=dark" alt="Firebase" width="60" height="60" style="margin: 10px;" />
   </a>
-  <a href="https://cassandra.apache.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=cassandra&theme=dark" alt="Cassandra" width="60" height="60" style="margin: 10px;" />
-  </a>
   
 </div>
 
 </details>
 
 <details>
-<summary><b>☁️ Cloud & DevOps 🚀</b></summary>
+<summary><b>🚀 DevOps</b></summary>
 <br>
 
 <div align="center">
-  
-  <!-- Cloud Platforms -->
-  <h4>☁️ Cloud Platforms</h4>
-  <a href="https://aws.amazon.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=aws&theme=dark" alt="AWS" width="60" height="60" style="margin: 10px;" />
-  </a>
-  <a href="https://cloud.google.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gcp&theme=dark" alt="Google Cloud" width="60" height="60" style="margin: 10px;" />
-  </a>
-  <br><br>
   
   <!-- DevOps Tools -->
   <h4>🔧 DevOps & Deployment</h4>
@@ -276,7 +238,7 @@ public class Developer {
 </details>
 
 <details>
-<summary><b>🤖 AI/ML & Data Science 🧠</b></summary>
+<summary><b>🤖 AI/ML & Data Science</b></summary>
 <br>
 
 <div align="center">
@@ -349,82 +311,9 @@ public class Developer {
   </div>
   
   <br>
-  
-  <!-- Trophy Stats with better styling -->
-  <img src="https://github-profile-trophy.vercel.app/?username=KGK-7&theme=radical&no-frame=true&row=1&column=8&margin-w=15&margin-h=15&no-bg=true" alt="GitHub Trophies" width="95%"/>
-  
-  <br><br>
-  
 
 <!-- Animated divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- Animated divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- Coding Activity Section -->
-<div align="center">
-  
-  ## <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="40"> **Coding Activity** <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="40">
-  
-  <br>
-  
-  <!-- WakaTime Stats -->
-  <img src="https://wakatime.com/share/@KGK7/018c1413-de2d-4de4-ad00-b3f8e1bc0e71.svg" width="48%" />
-  <img src="https://wakatime.com/share/@KGK7/1b04c3e7-8661-4b22-b4bb-b2b115094b8a.svg" width="48%" />
-  
-  <br><br>
-  
-  <!-- Contribution Heatmap -->
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=KGK7&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&layout=compact&border_radius=15" width="70%"/>
-  
-</div>
-
-<!-- Animated divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- Connect Section -->
-<div align="center">
-  
-  ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> **Let's Connect & Build Something Amazing!** <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
-  
-  <br>
-  
-  <!-- Enhanced Social Links Grid -->
-  <table>
-    <tr>
-      <td align="center" width="20%">
-        <a href="https://linkedin.com/in/yourprofile" target="_blank">
-          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" style="filter: brightness(0) invert(1);" />
-          <br><b>LinkedIn</b>
-        </a>
-      </td>
-      <td align="center" width="20%">
-        <a href="https://twitter.com/yourusername" target="_blank">
-          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="40" width="40" style="filter: brightness(0) invert(1);" />
-          <br><b>Twitter</b>
-        </a>
-      </td>
-      <td align="center" width="20%">
-        <a href="https://discord.gg/yourinvite" target="_blank">
-          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="40" width="40" style="filter: brightness(0) invert(1);" />
-          <br><b>Discord</b>
-        </a>
-      </td>
-      <td align="center" width="20%">
-        <a href="https://t.me/yourusername" target="_blank">
-          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="Telegram" height="40" width="40" style="filter: brightness(0) invert(1);" />
-          <br><b>Telegram</b>
-        </a>
-      </td>
-      <td align="center" width="20%">
-        <a href="mailto:your.email@gmail.com" target="_blank">
-          <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" height="40" width="40" style="filter: brightness(0) invert(1);" />
-          <br><b>Gmail</b>
-        </a>
-      </td>
-    </tr>
-  </table>
   
   <br><br>
   
@@ -433,75 +322,28 @@ public class Developer {
     <tr>
       <td align="center" width="33%">
         <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="80">
-        <h3>💼 Collaboration</h3>
-        <p>Always excited about innovative projects<br>and meaningful partnerships!</p>
-        <a href="mailto:your.email@gmail.com">
-          <img src="https://img.shields.io/badge/Let's%20Collaborate-4285F4?style=for-the-badge&logo=google&logoColor=white&labelColor=black" />
-        </a>
-      </td>
-      <td align="center" width="33%">
-        <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="80">
-        <h3>🎯 Mentorship</h3>
-        <p>Passionate about guiding aspiring<br>developers on their coding journey!</p>
-        <a href="https://calendly.com/yourusername">
-          <img src="https://img.shields.io/badge/Book%20Session-00C4CC?style=for-the-badge&logo=calendly&logoColor=white&labelColor=black" />
+        <h3>💼 Connect with me in Linkedin</h3>
+        <p>Always excited about connecting with like-minded people<br>and meaningful partnerships!</p>
+        <a href="https://www.linkedin.com/in/gk-linkin/">
+          <img src="https://img.shields.io/badge/Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=black" />
         </a>
       </td>
       <td align="center" width="33%">
         <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="80">
-        <h3>💡 Innovation</h3>
-        <p>Constantly exploring cutting-edge<br>technologies and creative solutions!</p>
-        <a href="https://github.com/KGK-7">
-          <img src="https://img.shields.io/badge/View%20Projects-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=black" />
+        <h3>💡 Consistenly practising dsa on leetcode</h3>
+        <p>Checkout my leetcode profile<br>Make Sure you do follow & let's make creative solutions!</p>
+        <a href="https://leetcode.com/u/Gkode/">
+          <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=black" />
+</a>
         </a>
       </td>
     </tr>
   </table>
   
   <br><br>
-  
-  <!-- Dynamic Quote -->
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=The+future+belongs+to+those+who+believe+in+the+beauty+of+their+dreams.&author=Eleanor+Roosevelt&border_radius=15" width="700"/>
-  
-  <br><br>
-  
-  <!-- Currently Playing Music -->
-  <h3>🎵 Currently Jamming To</h3>
-  <div style="display: flex; justify-content: center; align-items: center;">
-    <a href="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&redirect=true">
-      <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=true&bar_color=00d9ff&bar_color_cover=true" alt="Spotify Now Playing" width="450" style="border-radius: 15px;" />
-    </a>
-  </div>
-  
-  <br><br>
-  
-  <!-- Support Section -->
-  <h3>☕ Support My Work</h3>
-  <div>
-    <a href="https://www.buymeacoffee.com/yourusername" target="_blank">
-      <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60" width="217" style="border-radius: 10px;" />
-    </a>
-    <a href="https://ko-fi.com/yourusername" target="_blank">
-      <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" alt="Ko-Fi" height="60" width="217" style="border-radius: 10px;" />
-    </a>
-  </div>
-  
-</div>
-
-<!-- Snake Animation -->
-<div align="center">
-  <h3>🐍 Watch My Contributions Get Eaten!</h3>
-  <img src="https://raw.githubusercontent.com/KGK-7/KGK-7/output/snake.svg" alt="Snake animation" width="100%"/>
-</div>
 
 <!-- Footer with enhanced styling -->
 <div align="center">
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&animation=twinkling&fontColor=fff" width="100%"/>
-  
-  <br>
-  
-  **✨ Made with ❤️, ☕ and lots of 🔥 by [KGK-7](https://github.com/KGK-7) ✨**
   
   <br>
   
@@ -511,12 +353,11 @@ public class Developer {
   
   <!-- Footer stats -->
   <div>
-    <img src="https://img.shields.io/badge/Thanks%20for%20visiting!-Come%20back%20soon!-blue?style=for-the-badge&logo=github&labelColor=black" />
+    <img src="https://img.shields.io/badge/Thanks%20for%20visiting%20Devs!%20-Come%20back%20soon!-blue?style=for-the-badge&logo=github&labelColor=black" />
   </div>
   
   <br>
-  
-  <!-- Visitor counter -->
-  <img src="https://visitcount.itsvg.in/api?id=KGK-7&label=Profile%20Views&color=12&icon=5&pretty=true" />
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=9,11,20&height=150&section=footer&animation=twinkling&fontColor=fff" width="100%"/>
   
 </div>
