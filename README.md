@@ -51,7 +51,7 @@ public class Developer {
     private String name = "Gokula Krishnan";
     private String role = "Backend Dev";
     private String education = "Master's in Computer Applications";
-    private String location = "TamilNadu, Dindigul, Palani";
+    private String location = "TamilNadu";
     
     // Current Mission Arrays
     private String[] currentMissions = {
