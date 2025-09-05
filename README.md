@@ -1,6 +1,6 @@
 <!-- Header with custom banner -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Welcome%20to%20My%20GitHub%20Universe&fontSize=45&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Where%20Repos%20Meets%20Creativity&descAlignY=55&descSize=18" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=7,2,40&height=200&section=header&text=Welcome%20to%20My%20GitHub%20Universe&fontSize=45&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Where%20Repos%20Meets%20Creativity&descAlignY=55&descSize=18" />
 </div>
 
 <div align="center">
@@ -323,7 +323,5 @@ public class Developer {
   </div>
   
   <br>
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=9,11,20&height=150&section=footer&animation=twinkling&fontColor=fff" width="100%"/>
   
 </div>
