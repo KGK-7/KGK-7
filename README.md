@@ -272,11 +272,6 @@ public class Developer {
   ## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="50"> **GitHub Analytics** <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="50">
   
   <br>
-  
-  <!-- Streak Stats with enhanced styling -->
-  <img src="https://streak-stats.demolab.com/?user=KGK-7&theme=radical&hide_border=true&background=0d1117&stroke=00d9ff&ring=00d9ff&fire=ff6500&currStreakLabel=c9d1d9&border_radius=15" alt="GitHub Streak" width="80%"/>
-  
-  <br><br>
 
 <!-- Animated divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
