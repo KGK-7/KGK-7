@@ -18,7 +18,7 @@
     <a href="mailto:gokulakriskgk@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white&labelColor=black&color=D14836" alt="Gmail" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(209, 72, 54, 0.4);" />
     </a>
-    <a href="https://gk-web-portfolio.netlify.app/" target="_blank">
+    <a href="https://kgk-web-portfolio.netlify.app/" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-%23FF5722.svg?style=for-the-badge&logo=firefox&logoColor=white&labelColor=black&color=FF5722" alt="Portfolio" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(255, 87, 34, 0.4);" />
     </a>
     <a href="https://github.com/KGK-7" target="_blank">
