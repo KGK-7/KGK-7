@@ -6,7 +6,7 @@
 <div align="center">
   
   <!-- Animated Name with glowing effect -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=55&duration=2500&pause=1000&color=00D9FF&background=000000&center=true&vCenter=true&width=900&height=120&lines=%F0%9F%9A%80+GOKULAKRISHNAN+%F0%9F%9A%80;%E2%9A%A1+BACKEND+DEV+%E2%9A%A1;%F0%9F%A4%96+AI+ARCHITECT+%F0%9F%A4%96;%F0%9F%8C%9F+CODE+CRAFTSMAN+%F0%9F%8C%9F;%F0%9F%94%A5+CONSISTENT+CODER+%F0%9F%94%A5" alt="Animated Name" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=55&duration=2500&pause=1000&color=00D9FF&background=000000&center=true&vCenter=true&width=900&height=120&lines=%F0%9F%9A%80+GOKULA KRISHNAN+%F0%9F%9A%80;%E2%9A%A1+BACKEND+DEV+%E2%9A%A1;%F0%9F%A4%96+AI+ARCHITECT+%F0%9F%A4%96;%F0%9F%8C%9F+CODE+CRAFTSMAN+%F0%9F%8C%9F;%F0%9F%94%A5+CONSISTENT+CODER+%F0%9F%94%A5" alt="Animated Name" />
   
   <br><br>
   
