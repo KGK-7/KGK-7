@@ -6,7 +6,7 @@
 <div align="center">
   
   <!-- Animated Name with glowing effect -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=55&duration=2500&pause=1000&color=00D9FF&background=000000&center=true&vCenter=true&width=900&height=120&lines=%F0%9F%9A%80+GOKULA+KRISHNAN+%F0%9F%9A%80" alt="Animated Name" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=55&duration=2500&pause=1000&color=00D9FF&background=000000&center=true&vCenter=true&width=900&height=120&lines=GOKULA+KRISHNAN" alt="Animated Name" />
   
   <br><br>
   
